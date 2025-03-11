@@ -1,6 +1,10 @@
 # aws-client-vpn
-Link: * https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-client-vpn
-Author: * Adrian Cantrill | http://cantrill.io
+
+Link: 
+* https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-client-vpn
+Author:
+* Adrian Cantrill | http://cantrill.io
+
 # Advanced Demo - AWS Client VPN
 In this demo, we will configure a client VPN deployment allowing workstations to connect to a AWS VPC in a safe and secure way
 
